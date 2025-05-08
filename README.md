@@ -4,6 +4,10 @@
 
 ___
 
+## About Project
+**I have documented every query inside SQL files, Go through that.**
+___
+
 ## 🛡️ License
 This project is licensed under the **MIT License**. You are free to **use, modify, and share** this project with proper attribution.
 
@@ -16,3 +20,5 @@ ___
 - 💼 [LinkedIn](https://www.linkedin.com/in/nayabrasool-shaik)
 - 🌐 [Portfolio](http://nayabrasool.my.canva.site/)
 - 📧 [Email](mailto:nayabshaik046@example.com)
+
+___
